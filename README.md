@@ -35,11 +35,69 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The first booke of the famous historye of Penardo and Laissa other ways callid the warres, of love a
+
+1. To the moſt Honorable, and moſt Accomopliſht Earle GEORGE Earle of ENYIE lorde Gordon, and Badyenoth &c. ſone & heire apparent to the moſt Illuſtrius Lorde George Marquies of Huntlie.
+
+1. To euerye freendly and Courteous Reader.
+
+1. THE AVTHOR to his Patrone.
+
+1. To the Right noble Lady Ladye Margret Countes of Marſheale.
+
+1. To the richt Noble Lady, and full of all verteus Ladye ANNE Counteſſe of Enyie.
+
+1. To the ryght worthe and verteous Lady DAME GRISEEL STVARTE Lady Meldrum.
+
+1. To the Author.
+
+1. To the Authour.
+
+1. To the Authour.
+
+1. To the Authour.
+
+1. To the Authour.
+
 #####Body#####
-The first booke of the famous historye of Penardo and Laissa other ways callid the warres, of love a
+
+1. Caput. 1.
+
+1. Caput. II.
+
+1. Caput. III.
+
+1. Caput. IIII.
+
+1. Caput. V.
+
+1. Caput. VI.
+
+1. Caput. VII.
+
+1. Caput. VIII.
+
+1. Caput. IX.
+
+1. Caput. X.
+
+1. Caput. XI.
+
+1. Caput. XII.
+
+1. Caput. XIII.
+
+1. Caput. XIIII.
+
+1. Caput. XV.
+
+1. Caput. XVI.
+
+1. Caput. XVII.
+
 #####Back#####
-The first booke of the famous historye of Penardo and Laissa other ways callid the warres, of love a
+
+1. To the Authour.
+
 **Types of content**
 
   * There are 6334 **verse** lines!
